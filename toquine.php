@@ -1,6 +1,7 @@
 <?php
 
-// This is a quine-line program to generate a PHPer token.
+// License: https://creativecommons.org/publicdomain/zero/1.0/
+// This is a quine-like program to generate a PHPer token.
 // Execute it like this: php toquine.php | php | php | php | ...
 
 
@@ -12,7 +13,8 @@
 $s = <<<'EOS'
 <?php
 
-// This is a quine-line program to generate a PHPer token.
+// License: https://creativecommons.org/publicdomain/zero/1.0/
+// This is a quine-like program to generate a PHPer token.
 // Execute it like this: php toquine.php | php | php | php | ...
 
 %s
